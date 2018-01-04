@@ -10,3 +10,9 @@ Write a server/response script once for Node, run a local server on the device, 
 
 ## Isn't this a bit too far fetched?
 It might be, but I believe in miracles.
+
+# What's here so far?
+- EventEmitter
+
+# TODO
+- Use [Telegraph](https://github.com/Building42/Telegraph) framework as basis for the HTTP and WebSockets (ws) module
